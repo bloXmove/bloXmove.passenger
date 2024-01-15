@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">bloXmoveNG</string>
+    <string name="geo.api.key"></string>
+</resources>
